@@ -4,8 +4,8 @@ body {
 }
 
 #game-container {
-	height: 164px;
-	width: 160px ;
+	height: 328px;
+	width: 328px ;
 	margin: 40%;
 	margin-top: 10%;
 	
@@ -13,8 +13,8 @@ body {
 
 .spot {
 	
-	height: 50px;
-	width: 50px;
+	height: 100px;
+	width: 100px;
 	display: inline-block;
 	border-collapse: collapse;
 	text-align: center;
