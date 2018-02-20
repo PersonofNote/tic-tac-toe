@@ -13,11 +13,12 @@ body {
 
 .spot {
 	
-	height: 100px;
-	width: 100px;
+	height: 70px;
+	width: 70px;
 	display: inline-block;
 	border-collapse: collapse;
 	text-align: center;
+	padding:10px;
 }
 
 div .spot:nth-child(-n+3) {
